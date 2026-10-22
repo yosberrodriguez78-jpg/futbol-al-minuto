@@ -1,7 +1,7 @@
 {
   "project": "Fútbol al Minuto",
   "date": "2026-10-22",
-  "generated_at_utc": "2026-10-22T08:13:29.365098+00:00",
+  "generated_at_utc": "2026-10-22T14:31:58.714363+00:00",
   "videos_per_day": 3,
   "platforms": [
     "TikTok",
@@ -9,6 +9,24 @@
   ],
   "news_count": 10,
   "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
+      "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
+      "description": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
+      "description": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?"
+    },
     {
       "source": "BBC Sport",
       "title": "Fernandes rounds on Carrick after Man Utd humiliation",
@@ -41,33 +59,15 @@
     },
     {
       "source": "BBC Sport",
-      "title": "Who am I? Plus today's other quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo?at_medium=RSS&at_campaign=rss",
-      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+      "title": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o?at_medium=RSS&at_campaign=rss",
+      "description": "Bromley part company with manager Andy Woodman following a challenging start to the 2026-27 season."
     },
     {
       "source": "BBC Sport",
       "title": "Rice strikes to earn Arsenal draw at Bayern",
       "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
       "description": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury."
-    },
-    {
-      "source": "BBC Sport",
-      "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-      "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe."
-    },
-    {
-      "source": "BBC Sport",
-      "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
-      "description": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on."
-    },
-    {
-      "source": "BBC Sport",
-      "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
-      "description": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League."
     }
   ],
   "videos": [
@@ -75,6 +75,24 @@
       "type": "resumen_y_resultados",
       "title": "Resumen de la actualidad futbolística",
       "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
+          "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
+          "description": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
+          "description": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?"
+        },
         {
           "source": "BBC Sport",
           "title": "Fernandes rounds on Carrick after Man Utd humiliation",
@@ -86,7 +104,14 @@
           "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
           "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
           "description": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick."
-        },
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
         {
           "source": "BBC Sport",
           "title": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
@@ -104,43 +129,18 @@
           "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
           "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
           "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League."
-        }
-      ],
-      "status": "borrador"
-    },
-    {
-      "type": "jugadas_y_goles",
-      "title": "Jugadas destacadas del fútbol",
-      "news_items": [
+        },
         {
           "source": "BBC Sport",
-          "title": "Who am I? Plus today's other quizzes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo?at_medium=RSS&at_campaign=rss",
-          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+          "title": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o?at_medium=RSS&at_campaign=rss",
+          "description": "Bromley part company with manager Andy Woodman following a challenging start to the 2026-27 season."
         },
         {
           "source": "BBC Sport",
           "title": "Rice strikes to earn Arsenal draw at Bayern",
           "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
           "description": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury."
-        },
-        {
-          "source": "BBC Sport",
-          "title": "Paz, Fabregas and Como teach Man Utd a lesson",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
-          "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe."
-        },
-        {
-          "source": "BBC Sport",
-          "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
-          "description": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on."
-        },
-        {
-          "source": "BBC Sport",
-          "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
-          "description": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League."
         }
       ],
       "status": "requiere_material_autorizado"

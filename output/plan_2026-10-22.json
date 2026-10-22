@@ -1,26 +1,155 @@
 {
   "project": "Fútbol al Minuto",
   "date": "2026-10-22",
+  "generated_at_utc": "2026-10-22T08:13:29.365098+00:00",
   "videos_per_day": 3,
   "platforms": [
     "TikTok",
     "YouTube Shorts"
   ],
-  "videos": [
+  "news_count": 10,
+  "news": [
     {
-      "type": "resumen_de_partidos",
-      "title": "Los resultados del fútbol de hoy",
-      "status": "pendiente_de_verificacion"
+      "source": "BBC Sport",
+      "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League."
     },
     {
-      "type": "mejores_jugadas",
-      "title": "Las mejores jugadas del día",
+      "source": "BBC Sport",
+      "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2v8x7ry17o?at_medium=RSS&at_campaign=rss",
+      "description": "Fifteen years to the day after they lost at home to Bury in League One, Bournemouth host seven-time champions of Europe AC Milan in the Europa League."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
+      "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\"."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+      "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Rice strikes to earn Arsenal draw at Bayern",
+      "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+      "description": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
+      "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
+      "description": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
+      "description": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x2v8x7ry17o?at_medium=RSS&at_campaign=rss",
+          "description": "Fifteen years to the day after they lost at home to Bury in League One, Bournemouth host seven-time champions of Europe AC Milan in the Europa League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
+          "description": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+          "description": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Rice strikes to earn Arsenal draw at Bayern",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+          "description": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
+          "description": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Chelsea eye Brighton's Ayari - Thursday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme3xk2jkyv0o?at_medium=RSS&at_campaign=rss",
+          "description": "Brighton midfielder Yasin Ayari is being targeted by Chelsea, Barcelona and Real Madrid are keeping an eye on Aston Villa's Johan Manzambi and Arsenal striker Viktor Gyokeres could be on moved on."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmvg6qxp6lj7o?at_medium=RSS&at_campaign=rss",
+          "description": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League."
+        }
+      ],
       "status": "requiere_material_autorizado"
     },
     {
       "type": "noticias",
-      "title": "Las noticias más importantes del fútbol",
-      "status": "pendiente_de_verificacion"
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
     }
   ]
 }

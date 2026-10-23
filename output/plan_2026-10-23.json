@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-23",
+  "generated_at_utc": "2026-10-23T14:33:28.248682+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United boss Michael Carrick spoke for five minutes and 30 seconds without taking questions at the start of his media briefing to outline what the club means to him, then later refused to rule out dropping captain Bruno Fernandes."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Arsenal fear Saka could be out for two months",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Conte plays down 'unfounded' Man Utd speculation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+      "description": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "What is going on at 'chaotic' Newcastle?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60qkpe0e54qo?at_medium=RSS&at_campaign=rss",
+      "description": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+      "description": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwg7xvz8e8dpo?at_medium=RSS&at_campaign=rss",
+      "description": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Sutton's predictions v Waffle the Wonder Dog and his owner Simon",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Infantino re-election hopes boosted by Asia support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
+      "description": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United boss Michael Carrick spoke for five minutes and 30 seconds without taking questions at the start of his media briefing to outline what the club means to him, then later refused to rule out dropping captain Bruno Fernandes."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal fear Saka could be out for two months",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Conte plays down 'unfounded' Man Utd speculation",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+          "description": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "PSG v Lyon moved as Paris prepares for more protests",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth"
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "What is going on at 'chaotic' Newcastle?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c60qkpe0e54qo?at_medium=RSS&at_campaign=rss",
+          "description": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+          "description": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwg7xvz8e8dpo?at_medium=RSS&at_campaign=rss",
+          "description": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sutton's predictions v Waffle the Wonder Dog and his owner Simon",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Infantino re-election hopes boosted by Asia support",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
+          "description": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

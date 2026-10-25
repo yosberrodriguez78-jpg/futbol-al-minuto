@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-25",
+  "generated_at_utc": "2026-10-25T14:22:59.608158+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "When is Premier League 'sacking season' - and who should be worried?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
+      "description": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "What Man Utd need now is stability, not more changes - Pulis",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+      "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+      "description": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+      "description": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c933x18044epo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+      "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Arsenal beat Everton to go level on points with leaders Man City",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+      "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+      "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "When is Premier League 'sacking season' - and who should be worried?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
+          "description": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What Man Utd need now is stability, not more changes - Pulis",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+          "description": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "What have Man Utd changed to turn around WSL form?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+          "description": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c933x18044epo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal beat Everton to go level on points with leaders Man City",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+          "description": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+          "description": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

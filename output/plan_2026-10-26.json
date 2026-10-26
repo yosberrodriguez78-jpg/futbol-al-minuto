@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-26",
+  "generated_at_utc": "2026-10-26T15:34:22.994609+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Why is Wilcox in line of fire from Man Utd fans?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
+      "description": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+      "description": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o?at_medium=RSS&at_campaign=rss",
+      "description": "Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Pennant has more than 50 stitches after dog attack",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c32l4kyk7gdeo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+      "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Why is Wilcox in line of fire from Man Utd fans?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
+          "description": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+          "description": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Will anyone end Spain's domination of women's Ballon d'Or?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp680jm1o?at_medium=RSS&at_campaign=rss",
+          "description": "Spanish players have dominated the Women's Ballon d'Or for the past five years, so will they be celebrating again on Monday?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Pennant has more than 50 stitches after dog attack",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&at_campaign=rss",
+          "description": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+          "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c32l4kyk7gdeo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+          "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+          "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

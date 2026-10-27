@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-27",
+  "generated_at_utc": "2026-10-27T14:44:18.823093+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+      "description": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "How 'anti-superstar' Kane defied doubters to become world's best",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
+      "description": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+      "description": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Milne out for season as Hearts' injury woes continue",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko?at_medium=RSS&at_campaign=rss",
+      "description": "Heart of Midlothian defender Harry Milne's season is over after he sustains an anterior cruciate ligament (ACL) injury, head coach Wouter Vrancken confirms."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Ballon d'Or in London - the most chaotic ever?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
+      "description": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
+      "description": "Do you know every winner since the very first recipient of the Ballon d'Or, way back in 1956?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Why is Wilcox in line of fire from Man Utd fans?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
+      "description": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+          "description": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How 'anti-superstar' Kane defied doubters to become world's best",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
+          "description": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+          "description": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Milne out for season as Hearts' injury woes continue",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko?at_medium=RSS&at_campaign=rss",
+          "description": "Heart of Midlothian defender Harry Milne's season is over after he sustains an anterior cruciate ligament (ACL) injury, head coach Wouter Vrancken confirms."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Ballon d'Or in London - the most chaotic ever?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
+          "description": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
+          "description": "Do you know every winner since the very first recipient of the Ballon d'Or, way back in 1956?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Why is Wilcox in line of fire from Man Utd fans?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
+          "description": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

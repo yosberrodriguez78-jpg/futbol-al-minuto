@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-28",
+  "generated_at_utc": "2026-10-28T14:48:57.084882+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Carrick and Fernandes hold clear-the-air talks",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\"."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "All Spanish cup matches suspended after Madrid train collision",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
+      "description": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after more than 30 people were killed in a train crash near Madrid."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Arsenal to appeal against Dowman red card",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Liverpool gambled on Jacquet and it is paying off",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different..."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "McClean leaves Derry City after contract dispute",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&at_campaign=rss",
+      "description": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Can clubs stop team news leaking out through FPL picks?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
+      "description": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Are Celtic any nearer Ferrari form a year after Rodgers exit?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
+      "description": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+      "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+      "description": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Carrick and Fernandes hold clear-the-air talks",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+          "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "All Spanish cup matches suspended after Madrid train collision",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
+          "description": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after more than 30 people were killed in a train crash near Madrid."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal to appeal against Dowman red card",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Liverpool gambled on Jacquet and it is paying off",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different..."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "McClean leaves Derry City after contract dispute",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&at_campaign=rss",
+          "description": "James McClean says Derry City \"will always hold a special place in my heart\" after mutually agreeing to terminate his contract with immediate effect."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Can clubs stop team news leaking out through FPL picks?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are Celtic any nearer Ferrari form a year after Rodgers exit?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
+          "description": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+          "description": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

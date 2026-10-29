@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-29",
+  "generated_at_utc": "2026-10-29T14:50:59.336572+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United head coach Michael Carrick has confirmed Bruno Fernandes will remain as captain ahead of the Premier League trip to Chelsea."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+      "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Sometimes managers need sacking for own good - Neville",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
+      "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+      "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Is double drop from the Premier League becoming more common?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+      "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
+      "description": "Carlisle boss Rob Elliot praises his nine-man side after their \"incredible\" win over Harrogate."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+      "description": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Do Dundee United have Scotland's best midfield three?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
+      "description": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Why is there only one Premier League match on Sunday?",
+      "link": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "'Fully committed' Fernandes to remain Man Utd captain",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United head coach Michael Carrick has confirmed Bruno Fernandes will remain as captain ahead of the Premier League trip to Chelsea."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+          "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sometimes managers need sacking for own good - Neville",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
+          "description": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+          "description": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Is double drop from the Premier League becoming more common?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+          "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
+          "description": "Carlisle boss Rob Elliot praises his nine-man side after their \"incredible\" win over Harrogate."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+          "description": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Do Dundee United have Scotland's best midfield three?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
+          "description": "As Dundee United hold reigning champions Celtic to a draw in Glasgow, the question is posed about whether they have the best midfield in Scotland."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Why is there only one Premier League match on Sunday?",
+          "link": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

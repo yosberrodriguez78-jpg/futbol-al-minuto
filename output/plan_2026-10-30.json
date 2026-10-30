@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-30",
+  "generated_at_utc": "2026-10-30T14:50:53.898136+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Britain's first £100m man facing defining moment",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+      "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United's struggles are pored over more than ever before - not least by former players."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "O'Neill agrees with McGregor about Celtic issues",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&at_campaign=rss",
+      "description": "Manager Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\"."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Ronaldo closes in on 1,000th goal with hat-trick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
+      "description": "Cristiano Ronaldo scores the 67th hat-trick of his career in Al-Nassr's 5-3 win against Al-Kholood in the Saudi Pro League."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'The most important person managers must manage is themselves'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Items stolen from Man Utd Munich air disaster memorial",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
+      "description": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qj9r3v7vo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek nine."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "PSG score late to hold struggling Man City",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Britain's first £100m man facing defining moment",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+          "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How talking about Man Utd's cycle of doom became an industry",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's struggles are pored over more than ever before - not least by former players."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "O'Neill agrees with McGregor about Celtic issues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Ronaldo closes in on 1,000th goal with hat-trick",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
+          "description": "Cristiano Ronaldo scores the 67th hat-trick of his career in Al-Nassr's 5-3 win against Al-Kholood in the Saudi Pro League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'The most important person managers must manage is themselves'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally"
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Items stolen from Man Utd Munich air disaster memorial",
+          "link": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
+          "description": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qj9r3v7vo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek nine."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "PSG score late to hold struggling Man City",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

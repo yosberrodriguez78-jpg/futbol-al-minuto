@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-10-31",
+  "generated_at_utc": "2026-10-31T14:29:59.576786+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Carragher apologises to Villa for 'wrong' language",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
+      "description": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+      "description": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "What Howe could bring to Man Utd - and what are the challenges?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+      "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+      "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "AC Milan v Inter and the tale of an iconic image",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
+      "description": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Britain's first £100m man facing defining moment",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+      "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do?at_medium=RSS&at_campaign=rss",
+      "description": "Under-pressure Aberdeen manager Stephen Robinson has an excellent record in Hampden semi-finals. But is Saturday's meeting with Rangers a bridge too far?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side,  Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Carragher apologises to Villa for 'wrong' language",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
+          "description": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to sue him."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+          "description": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What Howe could bring to Man Utd - and what are the challenges?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+          "description": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+          "description": "Mikel Arteta says \"we are not in Disneyland\" and that he will hold Max Dowman to the same standards as other first-team players after the teenager's red card against Fleetwood."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "AC Milan v Inter and the tale of an iconic image",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
+          "description": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x2qr8dj81vo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Britain's first £100m man facing defining moment",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+          "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Can Robinson work Hampden magic against McInnes' Rangers?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do?at_medium=RSS&at_campaign=rss",
+          "description": "Under-pressure Aberdeen manager Stephen Robinson has an excellent record in Hampden semi-finals. But is Saturday's meeting with Rangers a bridge too far?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side,  Arsenal eye Club Brugge striker Nicolo Tresoldi, plus more."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

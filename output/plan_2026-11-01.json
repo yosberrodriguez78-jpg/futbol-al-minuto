@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-01",
+  "generated_at_utc": "2026-11-01T14:32:05.048676+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Are Manchester United really at risk of a relegation scrap?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Are De Zerbi's Spurs finding elusive consistency?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+      "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Maresca's big test is to address mounting Man City issues",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
+      "description": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Third choice? Inside Alexander-Arnold's struggles in Madrid",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&at_campaign=rss",
+      "description": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+      "description": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Brighton pick up first away league victory over Man City",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+      "description": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Coventry out of bottom three with win over struggling Sunderland",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
+      "description": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&at_campaign=rss",
+      "description": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Spurs revival continues with victory over 10-man Crystal Palace",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&at_campaign=rss",
+      "description": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage."
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are Manchester United really at risk of a relegation scrap?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are De Zerbi's Spurs finding elusive consistency?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+          "description": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Maresca's big test is to address mounting Man City issues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
+          "description": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Third choice? Inside Alexander-Arnold's struggles in Madrid",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&at_campaign=rss",
+          "description": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?"
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+          "description": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Brighton pick up first away league victory over Man City",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+          "description": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Coventry out of bottom three with win over struggling Sunderland",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
+          "description": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Enciso's stunning goal earns Ipswich draw at Hull",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&at_campaign=rss",
+          "description": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the  MKM Stadium."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Spurs revival continues with victory over 10-man Crystal Palace",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&at_campaign=rss",
+          "description": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage."
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

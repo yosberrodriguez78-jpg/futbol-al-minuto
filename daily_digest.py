@@ -4,88 +4,107 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 import json
 import xml.etree.ElementTree as ET
+import re
 
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 FEEDS = [
-    ("ESPN Deportes", "https://espndeportes.espn.com/espn/rss/news"),
+    ("ESPN", "https://espndeportes.espn.com/espn/rss/news"),
     ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
-    ("Noticias fútbol", "https://www.google.com/alerts/feeds/00000000000000000000/00000000000000000000"),
 ]
 
 def get_news():
-    items = []
+    news = []
     for source, url in FEEDS:
         try:
             request = Request(
-                url,
-                headers={"User-Agent": "FutbolAlMinuto/1.0"}
+                url, headers={"User-Agent": "Mozilla/5.0"}
             )
-            with urlopen(request, timeout=15) as response:
+            with urlopen(request, timeout=20) as response:
                 root = ET.fromstring(response.read())
 
-            for item in root.findall(".//item")[:10]:
-                title = item.findtext("title", default="").strip()
-                link = item.findtext("link", default="").strip()
-                description = item.findtext("description", default="").strip()
+            for item in root.findall(".//item"):
+                title = item.findtext("title", "").strip()
+                link = item.findtext("link", "").strip()
+                description = item.findtext("description", "").strip()
 
-                if title and link:
-                    items.append({
+                description = re.sub("<[^>]+>", "", description)
+
+                if title and link and not any(
+                    n["title"] == title for n in news
+                ):
+                    news.append({
                         "source": source,
                         "title": title,
                         "link": link,
-                        "description": description,
+                        "description": description
                     })
         except Exception as error:
-            print(f"No se pudo consultar {source}: {error}")
+            print(f"Error en {source}: {error}")
 
-    return items
+    return news[:15]
 
-def create_daily_plan():
-    now = datetime.now(timezone.utc)
-    today = now.strftime("%Y-%m-%d")
+def create_scripts(news):
+    videos = [
+        ("Resumen del fútbol", news[:5]),
+        ("Actualidad internacional", news[5:10]),
+        ("Últimas noticias del fútbol", news[10:15])
+    ]
+
+    results = []
+
+    for number, (title, stories) in enumerate(videos, 1):
+        lines = [
+            f"¡Bienvenidos a Fútbol al Minuto!",
+            title + ".",
+            ""
+        ]
+
+        for story in stories:
+            lines.append(story["title"] + ".")
+            if story["description"]:
+                lines.append(story["description"])
+            lines.append(f"Fuente: {story['source']}.")
+            lines.append("")
+
+        lines.append("Síguenos para más noticias del fútbol.")
+
+        script = "\n".join(lines)
+
+        (OUTPUT_DIR / f"guion_{number}.txt").write_text(
+            script, encoding="utf-8"
+        )
+
+        results.append({
+            "video": number,
+            "title": title,
+            "script": script,
+            "news": stories
+        })
+
+    return results
+
+def main():
     news = get_news()
+    videos = create_scripts(news)
+
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     plan = {
         "project": "Fútbol al Minuto",
         "date": today,
-        "generated_at_utc": now.isoformat(),
-        "videos_per_day": 3,
-        "platforms": ["TikTok", "YouTube Shorts"],
         "news_count": len(news),
-        "news": news,
-        "videos": [
-            {
-                "type": "resumen_y_resultados",
-                "title": "Resumen de la actualidad futbolística",
-                "news_items": news[:5],
-                "status": "borrador"
-            },
-            {
-                "type": "jugadas_y_goles",
-                "title": "Jugadas destacadas del fútbol",
-                "news_items": news[5:10],
-                "status": "requiere_material_autorizado"
-            },
-            {
-                "type": "noticias",
-                "title": "Noticias del fútbol internacional",
-                "news_items": news[10:15],
-                "status": "borrador"
-            }
-        ]
+        "videos": videos
     }
 
-    filename = OUTPUT_DIR / f"plan_{today}.json"
-    filename.write_text(
+    (OUTPUT_DIR / f"plan_{today}.json").write_text(
         json.dumps(plan, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
-    print(f"Plan guardado: {filename}")
+
     print(f"Noticias recopiladas: {len(news)}")
+    print(f"Guiones generados: {len(videos)}")
 
 if __name__ == "__main__":
-    create_daily_plan()
-
-           
+    main()

@@ -1,5 +1,5 @@
 
-name: Fútbol al Minuto - Plan diario
+name: Futbol al Minuto - Plan diario
 
 on:
   workflow_dispatch:
@@ -38,4 +38,3 @@ jobs:
           git add output/
           git diff --cached --quiet || git commit -m "Actualizar plan diario"
           git push
-

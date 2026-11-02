@@ -1,0 +1,155 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-02",
+  "generated_at_utc": "2026-11-02T14:54:32.919533+00:00",
+  "videos_per_day": 3,
+  "platforms": [
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "news_count": 10,
+  "news": [
+    {
+      "source": "BBC Sport",
+      "title": "To dive or not to dive? Football's big dilemma",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?"
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Villa drop legal action threat against Carragher",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
+      "description": "Aston Villa will not move forward with any legal action towards Jamie Carragher."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Bottom club Sunderland to stick with manager Le Bris",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
+      "description": "Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "I'll tell my players to dive in future - Iraola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
+      "description": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "No Grealish, no problem - the rise of Everton's youngsters",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
+      "description": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Arsenal move clear at the top with a rare win at Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
+      "description": "A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled \"a complete farce\"."
+    },
+    {
+      "source": "BBC Sport",
+      "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
+      "description": "Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?"
+    }
+  ],
+  "videos": [
+    {
+      "type": "resumen_y_resultados",
+      "title": "Resumen de la actualidad futbolística",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "To dive or not to dive? Football's big dilemma",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Villa drop legal action threat against Carragher",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa will not move forward with any legal action towards Jamie Carragher."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bottom club Sunderland to stick with manager Le Bris",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
+          "description": "Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "I'll tell my players to dive in future - Iraola",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
+          "description": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "No Grealish, no problem - the rise of Everton's youngsters",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season."
+        }
+      ],
+      "status": "borrador"
+    },
+    {
+      "type": "jugadas_y_goles",
+      "title": "Jugadas destacadas del fútbol",
+      "news_items": [
+        {
+          "source": "BBC Sport",
+          "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
+          "description": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal move clear at the top with a rare win at Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
+          "description": "A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled \"a complete farce\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
+          "description": "Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?"
+        }
+      ],
+      "status": "requiere_material_autorizado"
+    },
+    {
+      "type": "noticias",
+      "title": "Noticias del fútbol internacional",
+      "news_items": [],
+      "status": "borrador"
+    }
+  ]
+}

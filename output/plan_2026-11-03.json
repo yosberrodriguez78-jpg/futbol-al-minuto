@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-03",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nTenerife striker De Miguel dies after on-field collision.\nTenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.\nFuente: BBC Sport.\n\nWest Ham approach Parker after sacking boss Nuno.\nWest Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.\nFuente: BBC Sport.\n\nMcTominay returns as Penrice earns first Scotland call.\nScott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.\nFuente: BBC Sport.\n\nThe referee who became a role model after bouncing back from Diaz error.\nReferee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.\nFuente: BBC Sport.\n\nShaw among big names to miss out on FifPro World XI.\nEyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+          "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "West Ham approach Parker after sacking boss Nuno",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "McTominay returns as Penrice earns first Scotland call",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+          "description": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The referee who became a role model after bouncing back from Diaz error",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Shaw among big names to miss out on FifPro World XI",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
+          "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nJeers again as home woes continue - Jaissle has big problems at Newcastle.\nThree months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.\nFuente: BBC Sport.\n\nBoy arrested following Bradley Lowery taunt.\nPolice are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.\nFuente: BBC Sport.\n\nHow Arteta is getting the best from Rice.\nDeclan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?\nFuente: BBC Sport.\n\nFrom teenage limbo and Mangotsfield United to Champions League dream.\nIn just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.\nFuente: BBC Sport.\n\nMee and Kenny handed first Northern Ireland call-ups.\nManchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+          "description": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Boy arrested following Bradley Lowery taunt",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
+          "description": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How Arteta is getting the best from Rice",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&at_campaign=rss",
+          "description": "Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From teenage limbo and Mangotsfield United to Champions League dream",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o?at_medium=RSS&at_campaign=rss",
+          "description": "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Mee and Kenny handed first Northern Ireland call-ups",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nEmery looks to show Villa can compete with elite.\nAston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.\nFuente: BBC Sport.\n\nEverton hold off Newcastle to move into seventh.\nThierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.\nFuente: BBC Sport.\n\n'He's unavailable' - Moyes tight-lipped on Grealish.\nEverton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.\nFuente: BBC Sport.\n\nJaissle unhappy with 'clear foul' before Barry goal.\nNewcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.\nFuente: BBC Sport.\n\nEvery goal from the Women's Super League - matchweek eight.\nWatch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Emery looks to show Villa can compete with elite",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Everton hold off Newcastle to move into seventh",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+          "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Every goal from the Women's Super League - matchweek eight",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action."
+        }
+      ]
+    }
+  ]
+}

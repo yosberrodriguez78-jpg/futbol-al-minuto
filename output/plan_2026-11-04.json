@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-04",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nReal Madrid reach verbal agreement to sign Gabriel.\nReal Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.\nFuente: BBC Sport.\n\nKeeper Owono 'would never intentionally hurt anyone'.\nAndorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.\nFuente: BBC Sport.\n\nWhy is it going so wrong for Le Bris at Sunderland?.\nWill qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?\nFuente: BBC Sport.\n\nWest Ham confirm Parker as boss.\nWest Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.\nFuente: BBC Sport.\n\nNadal set to join Real Madrid board of directors.\nTennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Real Madrid reach verbal agreement to sign Gabriel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Keeper Owono 'would never intentionally hurt anyone'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "description": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Why is it going so wrong for Le Bris at Sunderland?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
+          "description": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "West Ham confirm Parker as boss",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+          "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Nadal set to join Real Madrid board of directors",
+          "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+          "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nFrom Derby to Champions League - Brown's journey to face Reds.\nFenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.\nFuente: BBC Sport.\n\nA half-time speech, a retaken penalty - and a win to save Carrick's job?.\nAt 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?\nFuente: BBC Sport.\n\nHow Carpenter has become Chelsea's surprise star.\nEllie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.\nFuente: BBC Sport.\n\nEmery takes positives, but Villa 'have work to do' to reach Barca level.\nAston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.\nFuente: BBC Sport.\n\nFernandes critical of media 'lies' about Carrick relationship.\nBruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "From Derby to Champions League - Brown's journey to face Reds",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
+          "description": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
+          "description": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How Carpenter has become Chelsea's surprise star",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
+          "description": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Fernandes critical of media 'lies' about Carrick relationship",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+          "description": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nWilson returns as Wales call up uncapped Duncan.\nHarry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.\nFuente: BBC Sport.\n\nPalace lose appeal against Mateta red card.\nCrystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.\nFuente: BBC Sport.\n\nEverton hold off Newcastle to move into seventh.\nThierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.\nFuente: BBC Sport.\n\n'He's unavailable' - Moyes tight-lipped on Grealish.\nEverton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.\nFuente: BBC Sport.\n\nJaissle unhappy with 'clear foul' before Barry goal.\nNewcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Wilson returns as Wales call up uncapped Duncan",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Palace lose appeal against Mateta red card",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+          "description": "Crystal Palace lose their appeal against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Everton hold off Newcastle to move into seventh",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+          "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+          "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League."
+        }
+      ]
+    }
+  ]
+}

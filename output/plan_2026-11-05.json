@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-05",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nA bitter end for Ronaldo - the icon who transformed Portugal.\nAs Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.\nFuente: BBC Sport.\n\nWhat new Kane deal means for England and the Premier League record.\nHarry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.\nFuente: BBC Sport.\n\nFamily thankful for support as De Miguel funeral held.\nJesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.\nFuente: BBC Sport.\n\nWho could be the next England debutant and who are the potential recalls?.\nIt's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.\nFuente: BBC Sport.\n\nJapan's Tashima to stand against Infantino for Fifa presidency.\nJapan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Family thankful for support as De Miguel funeral held",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+          "description": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who could be the next England debutant and who are the potential recalls?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "description": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Japan's Tashima to stand against Infantino for Fifa presidency",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwvgdyd80g9do?at_medium=RSS&at_campaign=rss",
+          "description": "Japan's Kozo Tashima has announced his candidacy for Fifa's upcoming presidential election."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nRonaldo retires from Portugal duty.\nPortugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".\nFuente: BBC Sport.\n\nRonaldo's most iconic moments as he retires from international football.\nBBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.\nFuente: BBC Sport.\n\nFA and WSL launch major study into ACL injuries in women's football.\nThe Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.\nFuente: BBC Sport.\n\nWorld record 53 red cards shown in Brazilian youth game.\nA world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.\nFuente: BBC Sport.\n\nEmery in line for new Villa deal - Thursday's gossip.\nManager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Ronaldo retires from Portugal duty",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Ronaldo's most iconic moments as he retires from international football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "FA and WSL launch major study into ACL injuries in women's football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
+          "description": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "World record 53 red cards shown in Brazilian youth game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "description": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Emery in line for new Villa deal - Thursday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nHaaland scores winner as Man City beat Leipzig.\nErling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.\nFuente: BBC Sport.\n\nArsenal survive late Slavia scare for hard-fought win.\nArsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.\nFuente: BBC Sport.\n\nLiverpool crumble at Kuyt's Fenerbahce.\nLiverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.\nFuente: BBC Sport.\n\nComo score nine to make Champions League history.\nAnastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.\nFuente: BBC Sport.\n\nBellingham backheel and Valverde rocket earn Real late win at AEK.\nReal Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Haaland scores winner as Man City beat Leipzig",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+          "description": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal survive late Slavia scare for hard-fought win",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Liverpool crumble at Kuyt's Fenerbahce",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Como score nine to make Champions League history",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+          "description": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bellingham backheel and Valverde rocket earn Real late win at AEK",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row."
+        }
+      ]
+    }
+  ]
+}

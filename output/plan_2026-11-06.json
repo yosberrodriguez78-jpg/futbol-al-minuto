@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-06",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\n'Incredible achievement for the family' as Bellingham brothers called up.\nIt may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.\nFuente: BBC Sport.\n\nPalmer misses too many chances to impress - Tuchel.\nEngland manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.\nFuente: BBC Sport.\n\nPortugal coach 'knew nothing' about Ronaldo retiring.\nPortugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.\nFuente: BBC Sport.\n\nNewcastle's Dedic stopped by police after being spotted with bow and arrows.\nNewcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.\nFuente: BBC Sport.\n\nSutton's predictions v Football Manager, the game.\nBBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'Incredible achievement for the family' as Bellingham brothers called up",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Palmer misses too many chances to impress - Tuchel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+          "description": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sutton's predictions v Football Manager, the game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nHas Anderson lived up to the hype after Man City move?.\nAs Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?\nFuente: BBC Sport.\n\nLampard looks for Coventry progress as belief grows.\nCoventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.\nFuente: BBC Sport.\n\nWhy managers can learn a lot from leaders like Napoleon - Pulis.\nBBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.\nFuente: BBC Sport.\n\nWolves legend and ex-England defender Coady retires.\nWolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.\nFuente: BBC Sport.\n\nTalking points as Premiership prepares for international break.\nCeltic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Has Anderson lived up to the hype after Man City move?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+          "description": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Lampard looks for Coventry progress as belief grows",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
+          "description": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Wolves legend and ex-England defender Coady retires",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
+          "description": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Talking points as Premiership prepares for international break",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?"
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\n'Putting his doubters in their place' - Rooney lands pundit of year award.\nFormer Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.\nFuente: BBC Sport.\n\nFrom playing against Messi and Ronaldo to non-league.\nFernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.\nFuente: BBC Sport.\n\nChampionship preview: Contenders, pretenders and strugglers.\nBBC Sport highlights five things to look out for across Saturday's Championship action.\nFuente: BBC Sport.\n\nDeschamps not interested in Man Utd job - Friday's gossip.\nDidier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.\nFuente: BBC Sport.\n\nHarborough sign 6ft 9in striker Hudlin before FA Cup tie.\nNon-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From playing against Messi and Ronaldo to non-league",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
+          "description": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Championship preview: Contenders, pretenders and strugglers",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport highlights five things to look out for across Saturday's Championship action."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Deschamps not interested in Man Utd job - Friday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+          "description": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient."
+        }
+      ]
+    }
+  ]
+}

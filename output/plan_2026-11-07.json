@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-07",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nOkafor the difference despite Van Hecke defiance - Leeds v Spurs ratings.\nHow Leeds United and Tottenham Hotspurs' players rated in their Premier League match.\nFuente: BBC Sport.\n\nI left Man City for my mental wellbeing - Trafford.\nJames Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.\nFuente: BBC Sport.\n\nNon-league's greatest giant-killers eye another scalp.\nNon-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.\nFuente: BBC Sport.\n\nMy dream is to win Ballon d'Or - Gabriel.\nManchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.\nFuente: BBC Sport.\n\nScotland lose Welsh and call up Porteous.\nSwansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+          "description": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "I left Man City for my mental wellbeing - Trafford",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+          "description": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Non-league's greatest giant-killers eye another scalp",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "My dream is to win Ballon d'Or - Gabriel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Scotland lose Welsh and call up Porteous",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
+          "description": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nEngland 'disappointment' fuels Dewsbury-Hall's Everton heroics.\nKiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.\nFuente: BBC Sport.\n\nHow 'calm' Eustace got the result he needed for Derby.\nHow under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.\nFuente: BBC Sport.\n\n'A beautiful story' as Bellingham brothers called up.\nIt may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.\nFuente: BBC Sport.\n\nIs Palmer's England career over under Tuchel?.\nCole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.\nFuente: BBC Sport.\n\nReal Madrid and PSG keen on Suzuki - Saturday's gossip.\nParis St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+          "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How 'calm' Eustace got the result he needed for Derby",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
+          "description": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'A beautiful story' as Bellingham brothers called up",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+          "description": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Is Palmer's England career over under Tuchel?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+          "description": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nCan we play you every week? The day Southend toppled Man United.\nSouthend United's heroes remember their famous victory against Manchester United 20 years on.\nFuente: BBC Sport.\n\nFootball Daily.\nTrafford or Pickford? Why did James leave Man City? And why choose Leeds United?\nFuente: BBC Sport.\n\nI had to play regularly for my mental wellbeing - Trafford on summer move.\nLeeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.\nFuente: BBC Sport.\n\nBarry scores twice as Everton fight back to beat Coventry.\nIn-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.\nFuente: BBC Sport.\n\nLeicester hold nerve to knock out sixth-tier Oxford City.\nLeague One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Can we play you every week? The day Southend toppled Man United",
+          "link": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+          "description": "Southend United's heroes remember their famous victory against Manchester United 20 years on."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
+          "description": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
+          "description": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Barry scores twice as Everton fight back to beat Coventry",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+          "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
+          "description": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup."
+        }
+      ]
+    }
+  ]
+}

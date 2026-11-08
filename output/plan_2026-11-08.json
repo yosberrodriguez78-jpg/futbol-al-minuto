@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-08",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nThe oldest club in London making FA Cup history.\nCray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.\nFuente: BBC Sport.\n\n'I can't believe he is one of us' - inside Salah's life in Trabzon.\nBBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.\nFuente: BBC Sport.\n\n'The worst conditions in my 35-year career' - commentating in the FA Cup fog.\nBBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.\nFuente: BBC Sport.\n\nMaresca's dream start turns into nightmare as title hopes hit.\nEnzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.\nFuente: BBC Sport.\n\n'It's Savage junior's night' - Charlie scores against dad Robbie's side.\nRobbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "The oldest club in London making FA Cup history",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+          "description": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Maresca's dream start turns into nightmare as title hopes hit",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+          "description": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
+          "description": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nLast season difficult with injury and miscarriage - Muniz.\nFulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.\nFuente: BBC Sport.\n\nDelap double inspires Forest to stunning win over Man City.\nLiam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.\nFuente: BBC Sport.\n\nArsenal beat Hull to extend lead at top of the table.\nArsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.\nFuente: BBC Sport.\n\nLeeds beat Spurs to end five-game winless run.\nNoah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.\nFuente: BBC Sport.\n\nMuniz strike denies Newcastle and Jaissle much-needed win.\nRodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Last season difficult with injury and miscarriage - Muniz",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+          "description": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Delap double inspires Forest to stunning win over Man City",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+          "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal beat Hull to extend lead at top of the table",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Leeds beat Spurs to end five-game winless run",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+          "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+          "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nBarry scores twice as Everton fight back to beat Coventry.\nIn-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.\nFuente: BBC Sport.\n\nArsenal should have been awarded penalty against Hull - Cann.\nFormer Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.\nFuente: BBC Sport.\n\n'Wonderful goal' - Crewe's McNeill scores from halfway line.\nCharlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.\nFuente: BBC Sport.\n\nYork score after 10 seconds against Northampton following unique kick-off.\nOllie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.\nFuente: BBC Sport.\n\nNotts County beat Altrincham in incredible fog-filled spectacle.\nNotts County find a way to get past National League Altrincham in incredible conditions.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Barry scores twice as Everton fight back to beat Coventry",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+          "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal should have been awarded penalty against Hull - Cann",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
+          "description": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
+          "description": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "York score after 10 seconds against Northampton following unique kick-off",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
+          "description": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
+          "description": "Notts County find a way to get past National League Altrincham in incredible conditions."
+        }
+      ]
+    }
+  ]
+}

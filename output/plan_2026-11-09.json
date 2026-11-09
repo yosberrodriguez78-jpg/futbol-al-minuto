@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-09",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nBurn replaces injured Guehi in England squad.\nNewcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.\nFuente: BBC Sport.\n\nIncident-by-incident: Was it a bad weekend for VAR?.\nAlmost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?\nFuente: BBC Sport.\n\nAlisson wants to sign new Liverpool contract.\nLiverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.\nFuente: BBC Sport.\n\nChelsea staff warned over Fantasy Premier League use.\nChelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.\nFuente: BBC Sport.\n\nFishlock retires after record-breaking career.\nWales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Burn replaces injured Guehi in England squad",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
+          "description": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+          "description": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Alisson wants to sign new Liverpool contract",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Chelsea staff warned over Fantasy Premier League use",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Fishlock retires after record-breaking career",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq98z8401zz8o?at_medium=RSS&at_campaign=rss",
+          "description": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nDutch match postponed after fans block team bus.\nA Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game.\nFuente: BBC Sport.\n\nMusiala may never return to his best - Hoeness.\nBayern Munich honorary president Uli Hoeness questions whether forward Jamal Musiala will ever \"regain the performance level he once had\".\nFuente: BBC Sport.\n\nBizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone.\nIt was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?\nFuente: BBC Sport.\n\nVilla's Kamara on Chelsea watchlist - Monday's gossip.\nAston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.\nFuente: BBC Sport.\n\nWhat can you read into Premier League table after 10 games?.\nWith 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Dutch match postponed after fans block team bus",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
+          "description": "A Dutch second-tier match between Vitesse Arnhem and De Graafschap was called off after away team supporters blocked their own team's bus from departing for the game."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Musiala may never return to his best - Hoeness",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich honorary president Uli Hoeness questions whether forward Jamal Musiala will ever \"regain the performance level he once had\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+          "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What can you read into Premier League table after 10 games?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
+          "description": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nBerkhamsted players banned from watching FA Cup draw.\nThe manager of seventh-tier Berkhamsted says his players will be barred from the \"distraction\" of the FA Cup second round draw.\nFuente: BBC Sport.\n\nWho am I? Plus today's other quizzes.\nTest your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\nWhen is the FA Cup second round draw?.\nOur Ask Me Anything team tell you all you need to know about the FA Cup second round draw.\nFuente: BBC Sport.\n\nWho has made Troy's Premier League team of the week?.\nAfter every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?\nFuente: BBC Sport.\n\nAre 'outstanding' Brighton now Arsenal's main title challengers?.\nAfter moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Berkhamsted players banned from watching FA Cup draw",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6j9k910l1ryo?at_medium=RSS&at_campaign=rss",
+          "description": "The manager of seventh-tier Berkhamsted says his players will be barred from the \"distraction\" of the FA Cup second round draw."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "When is the FA Cup second round draw?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6wydypkgdjlo?at_medium=RSS&at_campaign=rss",
+          "description": "Our Ask Me Anything team tell you all you need to know about the FA Cup second round draw."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
+          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
+          "description": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-11",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nPochettino a decade in Man Utd's making - but Carrick deserves better.\nMauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.\nFuente: BBC Sport.\n\nPochettino ready to accept Man Utd offer to replace Carrick.\nMauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.\nFuente: BBC Sport.\n\nPsychological uncertainty and tactics - assessing the issues at Man City.\nThe ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.\nFuente: BBC Sport.\n\nDoes Pickford finally face serious competition for his England place?.\nDoes England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.\nFuente: BBC Sport.\n\nScotland without captain Weir for World Cup play-off.\nScotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+          "description": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Does Pickford finally face serious competition for his England place?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+          "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Scotland without captain Weir for World Cup play-off",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nShirt pull on Isak should have been penalty - panel.\nLiverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.\nFuente: BBC Sport.\n\nWayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up.\nThe football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.\nFuente: BBC Sport.\n\nTurkey-based Bates replaces Binks in Scotland squad.\nDavid Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.\nFuente: BBC Sport.\n\nNI can draw on strong club form in key window.\nNorthern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.\nFuente: BBC Sport.\n\nArsenal eye Real's Endrick - Wednesday's gossip.\nReal Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Shirt pull on Isak should have been penalty - panel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
+          "description": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Turkey-based Bates replaces Binks in Scotland squad",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
+          "description": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "NI can draw on strong club form in key window",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno?at_medium=RSS&at_campaign=rss",
+          "description": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nWho am I? Plus today's other quizzes.\nTest your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\nMan City thrash Inter to claim first CL win of season.\nManchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.\nFuente: BBC Sport.\n\nRobinson unfazed by Pochettino departure talk.\nDefender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.\nFuente: BBC Sport.\n\nChelsea play out goalless draw with Hacken.\nChelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.\nFuente: BBC Sport.\n\nHistoric winners & 50-yard screamers - best goals from FA Cup first round.\nRelive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man City thrash Inter to claim first CL win of season",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Robinson unfazed by Pochettino departure talk",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+          "description": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Chelsea play out goalless draw with Hacken",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+          "description": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill."
+        }
+      ]
+    }
+  ]
+}

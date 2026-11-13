@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-13",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nHow Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd.\nWith Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.\nFuente: BBC Sport.\n\nFernandes rejects second Man Utd contract offer.\nManchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.\nFuente: BBC Sport.\n\nWhere does Kane rank among all-time England greats?.\nHarry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?\nFuente: BBC Sport.\n\nLiverpool and Van Dijk have a decision to make.\nVirgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.\nFuente: BBC Sport.\n\nThe club preparing to play again after the death of a player.\nNon-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+          "description": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Fernandes rejects second Man Utd contract offer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Where does Kane rank among all-time England greats?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Liverpool and Van Dijk have a decision to make",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
+          "description": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The club preparing to play again after the death of a player",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nFrom postcards to texts, the different ways a manager gets the sack - Pulis.\nBBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.\nFuente: BBC Sport.\n\nHow do you stop Haaland? Wales show how it's done.\nErling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.\nFuente: BBC Sport.\n\nMissing Israel games 'stressful' for captain Collins.\nRepublic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel.\nFuente: BBC Sport.\n\nHow big a problem is central defence for Pocognoli?.\nAmy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.\nFuente: BBC Sport.\n\nBeckham to be inducted into US Soccer Hall of Fame.\nFormer England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How do you stop Haaland? Wales show how it's done",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
+          "description": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Missing Israel games 'stressful' for captain Collins",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq7821vdgrevo?at_medium=RSS&at_campaign=rss",
+          "description": "Republic of Ireland captain Nathan Collins says he felt he left his team-mates \"on their own\" after missing the two controversial Nations League games against Israel."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How big a problem is central defence for Pocognoli?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
+          "description": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Beckham to be inducted into US Soccer Hall of Fame",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss",
+          "description": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nWho makes your Northern Ireland XI against Ukraine?.\nAhead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?\nFuente: BBC Sport.\n\nBBC to show Dover v Leicester and Salisbury v Blackpool.\nNon-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.\nFuente: BBC Sport.\n\nGritty Arsenal show different side in Barcelona draw.\nCould a resilient draw against European champions Barcelona be a turning point in Arsenal's season?\nFuente: BBC Sport.\n\n'A lie' & 'nonsense' - Palmer committed to England, says Rogers.\nMorgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".\nFuente: BBC Sport.\n\nArsenal dig in for draw at Barcelona to extend unbeaten start.\nArsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Who makes your Northern Ireland XI against Ukraine?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y4jlplner0o?at_medium=RSS&at_campaign=rss",
+          "description": "Ahead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
+          "description": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Gritty Arsenal show different side in Barcelona draw",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+          "description": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+          "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages."
+        }
+      ]
+    }
+  ]
+}

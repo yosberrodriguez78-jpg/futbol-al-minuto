@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-14",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nFitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?.\nWhat can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.\nFuente: BBC Sport.\n\nTuchel to remind England of anti-racism protocols before Spain game.\nManager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.\nFuente: BBC Sport.\n\nSix goals to go - will McGinn catch Dalglish & Law?.\nAfter drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?\nFuente: BBC Sport.\n\nHow a reunion with scout Bompastor solved Chelsea's striker issue.\nChelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.\nFuente: BBC Sport.\n\nClough's longevity: landmark achievement or indictment on football?.\nMansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+          "description": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+          "description": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+          "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Clough's longevity: landmark achievement or indictment on football?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
+          "description": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nWho would make your England-Spain combined XI?.\nHow many England players do you think would make the Spain team?\nFuente: BBC Sport.\n\nWho am I? Plus today's other quizzes.\nTest your football knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\n'Exciting' Moylan flourishing for club and country.\nBBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.\nFuente: BBC Sport.\n\nGoalkeeper involved in fatal collision gets 12-game ban.\nJesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.\nFuente: BBC Sport.\n\nTearful Pochettino on 'difficult' decision to leave USA for Man Utd.\nAn emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Who would make your England-Spain combined XI?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
+          "description": "How many England players do you think would make the Spain team?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Exciting' Moylan flourishing for club and country",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+          "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+          "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nNI target challenge of Nations League promotion.\nA win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time.\nFuente: BBC Sport.\n\n'It's a shootout' - Wales out to derail stuttering Norway.\nNorway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company.\nFuente: BBC Sport.\n\n'If that penalty is given against you, you're furious'.\nSportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.\nFuente: BBC Sport.\n\nArsenal dig in for draw at Barcelona to extend unbeaten start.\nArsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.\nFuente: BBC Sport.\n\nSix matches that defined Carrick's Man Utd tenure.\nBBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "NI target challenge of Nations League promotion",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss",
+          "description": "A win against Ukraine on Saturday night would leave Northern Ireland needing only a point away to Hungary next week to secure promotion to Nations League A for the first time."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
+          "description": "Norway's golden generation host Wales in a crunch Nations League clash on Saturday, aiming to end a rare losing streak for Erling Haaland and company."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'If that penalty is given against you, you're furious'",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+          "description": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Six matches that defined Carrick's Man Utd tenure",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-15",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nBranthwaite, Garner and King omitted for Spain game.\nEngland manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.\nFuente: BBC Sport.\n\nHow Spain's humble superstar Simon became world's best keeper.\nAs Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.\nFuente: BBC Sport.\n\nWenger decides not to challenge Fifa chief Infantino.\nArsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.\nFuente: BBC Sport.\n\nRespect? Exposure? Why England's star names are going abroad.\nHarry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.\nFuente: BBC Sport.\n\nClub's first match since player's death abandoned because of serious injury.\nHendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Branthwaite, Garner and King omitted for Spain game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+          "description": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How Spain's humble superstar Simon became world's best keeper",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+          "description": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Wenger decides not to challenge Fifa chief Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Respect? Exposure? Why England's star names are going abroad",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+          "description": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Club's first match since player's death abandoned because of serious injury",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+          "description": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nSpain test will reveal if Tuchel and England have learned World Cup lessons.\nEngland's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.\nFuente: BBC Sport.\n\nArsenal target Nusa could cost £66m - Sunday's gossip.\nArsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.\nFuente: BBC Sport.\n\nWho am I? Plus today's other quizzes.\nTest your football knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\nHow Aston Villa are reclaiming their identity.\nAston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?\nFuente: BBC Sport.\n\nWho am I? Guess WSL star No 12.\nWork out the identity of today's Women's Super League player in as few attempts as possible.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+          "description": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How Aston Villa are reclaiming their identity",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Guess WSL star No 12",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
+          "description": "Work out the identity of today's Women's Super League player in as few attempts as possible."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nPitch perimeters under review after Vigar death.\nThe Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.\nFuente: BBC Sport.\n\nThe 'manager's dream' who has put NI one game from history.\nAfter scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.\nFuente: BBC Sport.\n\nBristol Rovers being let down by poor players - Evans.\nSteve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".\nFuente: BBC Sport.\n\n'No racism in Spain' – De la Fuente message for Tuchel.\nSpain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.\nFuente: BBC Sport.\n\nHaaland helps Norway to win over Wales in Nations League.\nWatch the best of the action as Norway beat Wales in the Nations League in Oslo.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Pitch perimeters under review after Vigar death",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+          "description": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The 'manager's dream' who has put NI one game from history",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+          "description": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bristol Rovers being let down by poor players - Evans",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
+          "description": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'No racism in Spain' – De la Fuente message for Tuchel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+          "description": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Haaland helps Norway to win over Wales in Nations League",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
+          "description": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo."
+        }
+      ]
+    }
+  ]
+}

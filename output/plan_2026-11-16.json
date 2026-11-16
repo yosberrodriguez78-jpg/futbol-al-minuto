@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-16",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nHow Frank can restore reputation and save Crystal Palace.\nWill Thomas Frank rebuild his reputation at Crystal Palace after a bruising time in charge of Tottenham?\nFuente: BBC Sport.\n\nHas Trafford replaced Pickford as England No 1?.\nJames Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.\nFuente: BBC Sport.\n\nKlopp says Infantino worse than Blatter.\nGermany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.\nFuente: BBC Sport.\n\nCap fits as Robertson poised to take King Kenny's crown.\nAndy Robertson will take over from Kenny Dalglish as Scotland's most-capped player when he captains his country against Switzerland on Monday evening.\nFuente: BBC Sport.\n\nBelgium's Lukaku retires from internationals.\nRomelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "How Frank can restore reputation and save Crystal Palace",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
+          "description": "Will Thomas Frank rebuild his reputation at Crystal Palace after a bruising time in charge of Tottenham?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Has Trafford replaced Pickford as England No 1?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
+          "description": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Klopp says Infantino worse than Blatter",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+          "description": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Cap fits as Robertson poised to take King Kenny's crown",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
+          "description": "Andy Robertson will take over from Kenny Dalglish as Scotland's most-capped player when he captains his country against Switzerland on Monday evening."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Belgium's Lukaku retires from internationals",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
+          "description": "Romelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nBurnham urges caution on scrapping 3pm TV blackout.\nAndy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.\nFuente: BBC Sport.\n\nRepublic of Ireland captain Collins to miss Kosovo game.\nRepublic of Ireland captain Nathan Collins is ruled out of Tuesday's must-win Nations League game against Kosovo with a knee injury.\nFuente: BBC Sport.\n\n60 minutes of perfection, 30 minutes of chaos - an England win for the ages.\nEngland's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.\nFuente: BBC Sport.\n\nHow did England cling on against Spain and what did Tuchel do differently?.\nTrying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?\nFuente: BBC Sport.\n\nIs Scotland's system limiting Gannon-Doak's threat?.\nAs Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Burnham urges caution on scrapping 3pm TV blackout",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
+          "description": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Republic of Ireland captain Collins to miss Kosovo game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
+          "description": "Republic of Ireland captain Nathan Collins is ruled out of Tuesday's must-win Nations League game against Kosovo with a knee injury."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+          "description": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How did England cling on against Spain and what did Tuchel do differently?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+          "description": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Is Scotland's system limiting Gannon-Doak's threat?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
+          "description": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nVote for the best men's European striker this century.\nWho is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.\nFuente: BBC Sport.\n\nVinicius says transfer interest affected Real form.\nReal Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.\nFuente: BBC Sport.\n\nWho swaggered around like he owned the place? Spain v England ratings.\nSpanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.\nFuente: BBC Sport.\n\nWhat's at the top of Frick's Aberdeen to-do list?.\nMario Frick is Aberdeen's new head coach, but what does the former Liechtenstein striker have to do to lift his side clear of the relegation zone?\nFuente: BBC Sport.\n\nHomophobia on the rise in football - what is your club doing about it?.\nHomophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Vote for the best men's European striker this century",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
+          "description": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Vinicius says transfer interest affected Real form",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
+          "description": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who swaggered around like he owned the place? Spain v England ratings",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+          "description": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What's at the top of Frick's Aberdeen to-do list?",
+          "link": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
+          "description": "Mario Frick is Aberdeen's new head coach, but what does the former Liechtenstein striker have to do to lift his side clear of the relegation zone?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Homophobia on the rise in football - what is your club doing about it?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
+          "description": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?"
+        }
+      ]
+    }
+  ]
+}

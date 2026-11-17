@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-17",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nRooney says he considered taking his own life at Man Utd.\nWayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".\nFuente: BBC Sport.\n\nRonaldo, Maradona, Baggio - what happened to the World XI?.\nFootball's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.\nFuente: BBC Sport.\n\nBlackburn boss Mowbray steps back over health issues.\nBlackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.\nFuente: BBC Sport.\n\nLondon City's Goodwin gets first England call-up.\nLondon City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.\nFuente: BBC Sport.\n\nWill Infantino feel he's already won as Fifa challengers are revealed?.\nUefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Rooney says he considered taking his own life at Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+          "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+          "description": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Blackburn boss Mowbray steps back over health issues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+          "description": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "London City's Goodwin gets first England call-up",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
+          "description": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+          "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?"
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nRomario demands Ancelotti sacking as war of words continues.\nRomario, Brazil's fourth-highest scorer behind only Neymar, Pele and Ronaldo publicly demands that legendary manager Ancelotti be relieved of his duties.\nFuente: BBC Sport.\n\nWhy always him? The rise and fall of Balotelli.\nFifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.\nFuente: BBC Sport.\n\nHincapie in advanced talks over new Arsenal deal.\nArsenal are in advanced talks with defender Piero Hincapie over a new contract.\nFuente: BBC Sport.\n\nOwono did not deserve 12-match ban - Pique.\nFC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.\nFuente: BBC Sport.\n\n'Why not have a go?' - the halfway line goal phenomenon.\nWhy Premier League players are trying their luck on goal from long range more regularly.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Romario demands Ancelotti sacking as war of words continues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
+          "description": "Romario, Brazil's fourth-highest scorer behind only Neymar, Pele and Ronaldo publicly demands that legendary manager Ancelotti be relieved of his duties."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Why always him? The rise and fall of Balotelli",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+          "description": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Hincapie in advanced talks over new Arsenal deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Owono did not deserve 12-match ban - Pique",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+          "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Why not have a go?' - the halfway line goal phenomenon",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+          "description": "Why Premier League players are trying their luck on goal from long range more regularly."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nAlmost impossible for Scotland to not qualify for Euro 2028... or is it?.\nBBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.\nFuente: BBC Sport.\n\nMan convicted for racist abuse of Real Madrid's Mbappe.\nA man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.\nFuente: BBC Sport.\n\nPochettino says he would tell Guardiola to take USA job.\nMauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.\nFuente: BBC Sport.\n\nLife after Ronaldo - Portugal face post-Bale Wales.\nAs Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era.\nFuente: BBC Sport.\n\nAre Scotland still too reliant on 'old guard'?.\nAfter a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
+          "description": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Pochettino says he would tell Guardiola to take USA job",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Life after Ronaldo - Portugal face post-Bale Wales",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no?at_medium=RSS&at_campaign=rss",
+          "description": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are Scotland still too reliant on 'old guard'?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
+          "description": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli."
+        }
+      ]
+    }
+  ]
+}

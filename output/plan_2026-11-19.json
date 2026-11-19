@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-19",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nHow Premier League's big six keep getting richer.\nTen games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.\nFuente: BBC Sport.\n\nPremier League clubs to cover legal costs if Man City sponsors sue.\nPremier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.\nFuente: BBC Sport.\n\nThe best European strikers this century - ranked by you.\nBBC Sport reveals the top 10 European strikers this century, as voted for by you.\nFuente: BBC Sport.\n\nFrom Forest fringes to Glasner's go-to guy - the rise of McAtee.\nHow has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?\nFuente: BBC Sport.\n\nVote for the first BBC Men's Footballer of the Year.\nJude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "How Premier League's big six keep getting richer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+          "description": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+          "description": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The best European strikers this century - ranked by you",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport reveals the top 10 European strikers this century, as voted for by you."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+          "description": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Vote for the first BBC Men's Footballer of the Year",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+          "description": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\n'I'm very healthy' - Kompany to return to dugout after health scare.\nBayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.\nFuente: BBC Sport.\n\nWill this be the tightest Championship promotion race ever?.\nWith five teams separated by just one point at the top of the Championship, could this be the best season yet?\nFuente: BBC Sport.\n\nFive return for Wales' World Cup play-off final.\nCeri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.\nFuente: BBC Sport.\n\nEight-year ban for player who threw rock that hit assistant referee.\nEcuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.\nFuente: BBC Sport.\n\nWill Infantino feel he's already won as Fifa challengers confirmed?.\nFifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Will this be the tightest Championship promotion race ever?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
+          "description": "With five teams separated by just one point at the top of the Championship, could this be the best season yet?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Five return for Wales' World Cup play-off final",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
+          "description": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Eight-year ban for player who threw rock that hit assistant referee",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
+          "description": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+          "description": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?"
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nMagill returns to NI squad for Greece friendlies.\nNorthern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.\nFuente: BBC Sport.\n\nJoint-record six referee errors in last Premier League weekend.\nThe Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.\nFuente: BBC Sport.\n\nWho am I? Plus today's other quizzes.\nTest your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\nThe tightest survival scrap for years? Why it's not too early to worry.\nThe Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?\nFuente: BBC Sport.\n\nStrasbourg appoint Swansea boss Matos.\nStrasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Magill returns to NI squad for Greece friendlies",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
+          "description": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Joint-record six referee errors in last Premier League weekend",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
+          "description": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The tightest survival scrap for years? Why it's not too early to worry",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+          "description": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Strasbourg appoint Swansea boss Matos",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+          "description": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move."
+        }
+      ]
+    }
+  ]
+}

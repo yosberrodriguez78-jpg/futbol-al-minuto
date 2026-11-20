@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-20",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nArteta warns Arsenal players over FPL team news leak.\nMikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.\nFuente: BBC Sport.\n\nSouthampton give head coach Eckert new deal.\nSouthampton head coach Tonda Eckert signs a new contract at the club through until 2029.\nFuente: BBC Sport.\n\nSutton's predictions v world champion boxer Lauren Price.\nBBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.\nFuente: BBC Sport.\n\nInside the rise of 'humble' Nyoni and why Iraola trusts him.\nTeenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.\nFuente: BBC Sport.\n\nMoore eyes Kane shirt as Spurs' past and future stars meet.\nCologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Arteta warns Arsenal players over FPL team news leak",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+          "description": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Southampton give head coach Eckert new deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+          "description": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sutton's predictions v world champion boxer Lauren Price",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+          "description": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+          "description": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\n'I felt like I was a ghost' - when players miss a season through injury.\nNot pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?\nFuente: BBC Sport.\n\nKey questions as Scottish Premiership returns.\nThe Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.\nFuente: BBC Sport.\n\nArsenal 'have ingredients' but Europe's elite on another level.\nIn a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.\nFuente: BBC Sport.\n\nFrank happy to be 'back in the circus' at Palace.\nThomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.\nFuente: BBC Sport.\n\nShevchenko accuses Mudryk camp of 'baseless slander'.\nUkraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'I felt like I was a ghost' - when players miss a season through injury",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+          "description": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Key questions as Scottish Premiership returns",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
+          "description": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+          "description": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Frank happy to be 'back in the circus' at Palace",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+          "description": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+          "description": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nEFL preview: Evans' gripes & unexpected departures.\nBBC Sport explores five things to capture your attention this EFL weekend.\nFuente: BBC Sport.\n\nLegendary Irish League manager Coyle dies aged 80.\nThe Irish League's most successful manager Roy Coyle dies at the age of 80.\nFuente: BBC Sport.\n\nSFA should not change to pander to clubs - McLeish.\nSt Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.\nFuente: BBC Sport.\n\nBarcelona target Man Utd's Martinez - Friday's gossip.\nBarcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.\nFuente: BBC Sport.\n\nStoke and Birmingham proving you shouldn't judge a book by its cover.\nStoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "EFL preview: Evans' gripes & unexpected departures",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport explores five things to capture your attention this EFL weekend."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Legendary Irish League manager Coyle dies aged 80",
+          "link": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
+          "description": "The Irish League's most successful manager Roy Coyle dies at the age of 80."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "SFA should not change to pander to clubs - McLeish",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
+          "description": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+          "description": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+          "description": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?"
+        }
+      ]
+    }
+  ]
+}

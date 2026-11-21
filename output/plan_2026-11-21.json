@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-21",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nAnderson steps up, Berge impresses - player ratings for Man City v Fulham.\nHow Manchester City and Fulham players rated in their Premier League match.\nFuente: BBC Sport.\n\nJeers, injuries and doubters - White's journey back to the top.\nWhen Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.\nFuente: BBC Sport.\n\nShevchenko lying about drugs test claims - Mudryk.\nMykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.\nFuente: BBC Sport.\n\nOsimhen keen on Man Utd move - Saturday's gossip.\nVictor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.\nFuente: BBC Sport.\n\nWho am I? Plus today's other quizzes.\nTest your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
+          "description": "How Manchester City and Fulham players rated in their Premier League match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Jeers, injuries and doubters - White's journey back to the top",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+          "description": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Shevchenko lying about drugs test claims - Mudryk",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+          "description": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+          "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
+          "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nCost of Man Utd hiring and firing managers nears £100m.\nManchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.\nFuente: BBC Sport.\n\nBayern draw with Cologne as Kane picks up ankle injury.\nEngland captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.\nFuente: BBC Sport.\n\nWatch: Inverness and Ayr play out goalless draw.\nInverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.\nFuente: BBC Sport.\n\nLyon outclass Arsenal for Champions League win.\nArsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.\nFuente: BBC Sport.\n\nBuurman rescues late Chelsea win against PSG.\nVeerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Cost of Man Utd hiring and firing managers nears £100m",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+          "description": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Watch: Inverness and Ayr play out goalless draw",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+          "description": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Lyon outclass Arsenal for Champions League win",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Buurman rescues late Chelsea win against PSG",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+          "description": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nHemp and Shaw star as Manchester City get vital win at Hacken.\nSubstitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.\nFuente: BBC Sport.\n\nKey questions as Scottish Premiership returns.\nThe Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.\nFuente: BBC Sport.\n\nNFL great Brady could buy Chelsea stake.\nAmerican football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.\nFuente: BBC Sport.\n\nMan Utd fan criticism has gone too far at times - Berrada.\nManchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".\nFuente: BBC Sport.\n\nThe Chelsea loanee turning heads and Championship defenders at 17.\nRyan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+          "description": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Key questions as Scottish Premiership returns",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
+          "description": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "NFL great Brady could buy Chelsea stake",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+          "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man Utd fan criticism has gone too far at times - Berrada",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+          "description": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-22",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nNgumoha stars as Liverpool thrash 10-man Man Utd.\nMauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.\nFuente: BBC Sport.\n\nThe red card that changed Liverpool-Man Utd: correct call?.\nLeny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?\nFuente: BBC Sport.\n\nFrom conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton.\nNine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.\nFuente: BBC Sport.\n\nMcBurnie stoppage-time double earns Hull win over 10-man Brighton.\nOli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.\nFuente: BBC Sport.\n\nBundesliga.\nWatch highlights from matchday ten in the Bundesliga.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The red card that changed Liverpool-Man Utd: correct call?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+          "description": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+          "description": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+          "description": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Bundesliga",
+          "link": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights from matchday ten in the Bundesliga."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nYoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings.\nHow Liverpool and Manchester United's players rated following their Premier League match.\nFuente: BBC Sport.\n\nSpurs 'a match for anyone' as win at Man City boosts European hopes.\nWomen's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City.\nFuente: BBC Sport.\n\nPSG's Doue to have surgery on ruptured ACL.\nParis St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.\nFuente: BBC Sport.\n\nPochettino on 'painful' defeat in first game as Man Utd boss.\nManchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign.\nFuente: BBC Sport.\n\nArsenal frustrations grow as winless home run continues.\nArsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+          "description": "How Liverpool and Manchester United's players rated following their Premier League match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+          "description": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "PSG's Doue to have surgery on ruptured ACL",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
+          "description": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal frustrations grow as winless home run continues",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nIraola 'enjoyed' big win over Man Utd.\nLiverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.\nFuente: BBC Sport.\n\nSpurs deny Man City top spot with statement win.\nDespite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.\nFuente: BBC Sport.\n\nOwn-goal mishap gifts Brighton first away victory.\nBrighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.\nFuente: BBC Sport.\n\nWatford seek sixth manager in 18 months after sacking Dionisi.\nWatford sack head coach Alessio Dionisi after 18 games in charge.\nFuente: BBC Sport.\n\n'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice.\nZidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Iraola 'enjoyed' big win over Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Spurs deny Man City top spot with statement win",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
+          "description": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Own-goal mishap gifts Brighton first away victory",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
+          "description": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+          "description": "Watford sack head coach Alessio Dionisi after 18 games in charge."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+          "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United."
+        }
+      ]
+    }
+  ]
+}

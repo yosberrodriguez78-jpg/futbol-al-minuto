@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-24",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nTarkowski's first Premier League red ruins Moyes' night - was it deserved?.\nEverton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?\nFuente: BBC Sport.\n\nJanelt scores stunner as Brentford beat 10-man Everton.\nWatch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.\nFuente: BBC Sport.\n\n'No-one's coming to save us' - but how can Man Utd save themselves?.\nHow does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League\nFuente: BBC Sport.\n\nWho has made Troy's Premier League team of the week?.\nAfter every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?\nFuente: BBC Sport.\n\nEngland, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup.\nThe United Kingdom will host a football World Cup for the first time since 1966.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+          "description": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+          "description": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+          "description": "The United Kingdom will host a football World Cup for the first time since 1966."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nDe Bruyne's feelings for Man City will 'never change'.\nKevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.\nFuente: BBC Sport.\n\nRaya to miss Dortmund game but injury 'not serious'.\nArsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.\nFuente: BBC Sport.\n\n'You don't win 345 matches by defending' - Simeone breaks La Liga record.\nDiego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.\nFuente: BBC Sport.\n\nWatford set to appoint former Romania boss Iordanescu.\nWatford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.\nFuente: BBC Sport.\n\nHolloway sacked by Swindon after two seasons.\nSwindon sack manager Ian Holloway following their poor start to the League Two season.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "De Bruyne's feelings for Man City will 'never change'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+          "description": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Raya to miss Dortmund game but injury 'not serious'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+          "description": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Watford set to appoint former Romania boss Iordanescu",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+          "description": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Holloway sacked by Swindon after two seasons",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
+          "description": "Swindon sack manager Ian Holloway following their poor start to the League Two season."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nArsenal and PSG keen on Nusa - Tuesday's gossip.\nArsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.\nFuente: BBC Sport.\n\nOne of football's most-hyped 16-year-olds - what next for JJ Gabriel?.\nBBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.\nFuente: BBC Sport.\n\nHibs boss Reedijk rejects talk of Easter Road jinx.\nHibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.\nFuente: BBC Sport.\n\nAndreatta's masterplan to shock Sweden & take Scots to World Cup.\nScotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta.\nFuente: BBC Sport.\n\nChaotic week, nightmare start and huge reality check for Pochettino.\nMauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+          "description": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
+          "description": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+          "description": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone."
+        }
+      ]
+    }
+  ]
+}

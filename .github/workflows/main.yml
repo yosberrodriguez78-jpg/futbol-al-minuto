@@ -23,8 +23,7 @@ jobs:
 
       - name: Instalar dependencias
         run: |
-          pip install gTTS Pillow "moviepy<2"
-
+          pip install gTTS Pillow "moviepy<2" requests edge-tts
       - name: Crear plan diario
         run: python daily_digest.py
 

@@ -1,43 +1,80 @@
 
-
+import asyncio
+import re
+import requests
 from pathlib import Path
-from gtts import gTTS
 from PIL import Image, ImageDraw, ImageFont
-from moviepy.editor import ImageClip, AudioFileClip
+import edge_tts
+from moviepy.editor import (
+    ImageClip, AudioFileClip, concatenate_videoclips
+)
 
 OUTPUT = Path("output")
 OUTPUT.mkdir(exist_ok=True)
 
 WIDTH, HEIGHT = 1080, 1920
+VOICE = "es-MX-JorgeNeural"
 
-def create_video(number):
-    script_file = OUTPUT / f"guion_{number}.txt"
+def get_font(size, bold=False):
+    paths = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+        if bold else
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    ]
+    return ImageFont.truetype(paths[0], size)
 
-    if not script_file.exists():
-        print(f"No existe {script_file}")
-        return
+def find_image(query, number):
+    try:
+        url = "https://commons.wikimedia.org/w/api.php"
+        params = {
+            "action": "query",
+            "generator": "search",
+            "gsrsearch": query + " football",
+            "gsrnamespace": 6,
+            "gsrlimit": 5,
+            "prop": "imageinfo",
+            "iiprop": "url",
+            "iiurlwidth": 1080,
+            "format": "json"
+        }
+        response = requests.get(url, params=params, timeout=20)
+        pages = response.json().get("query", {}).get("pages", {})
+        for page in pages.values():
+            info = page.get("imageinfo", [{}])[0]
+            image_url = info.get("thumburl")
+            if image_url:
+                data = requests.get(image_url, timeout=30)
+                if data.status_code == 200:
+                    path = OUTPUT / f"foto_{number}.jpg"
+                    path.write_bytes(data.content)
+                    return path
+    except Exception as error:
+        print("Imagen no encontrada:", error)
+    return None
 
-    text = script_file.read_text(encoding="utf-8")
-    audio_file = OUTPUT / f"audio_{number}.mp3"
-    video_file = OUTPUT / f"video_{number}.mp4"
+def make_scene(text, number):
+    query = " ".join(text.split()[:7])
+    photo = find_image(query, number)
 
-    gTTS(text=text, lang="es").save(str(audio_file))
+    if photo:
+        image = Image.open(photo).convert("RGB")
+        image = image.resize((WIDTH, HEIGHT))
+        image = image.crop((0, 0, WIDTH, HEIGHT))
+    else:
+        image = Image.new("RGB", (WIDTH, HEIGHT), "#101827")
 
-    image = Image.new("RGB", (WIDTH, HEIGHT), "#101827")
-    draw = ImageDraw.Draw(image)
+    draw = ImageDraw.Draw(image, "RGBA")
+    draw.rectangle((0, 0, WIDTH, 230), fill=(5, 10, 20, 210))
+    draw.rectangle((0, 1450, WIDTH, HEIGHT), fill=(5, 10, 20, 225))
 
-    title_font = ImageFont.truetype(
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 66
+    draw.text(
+        (65, 80), "FÚTBOL AL MINUTO",
+        font=get_font(65, True), fill="white"
     )
-    body_font = ImageFont.truetype(
-        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 40
+    draw.text(
+        (65, 155), "ÚLTIMA HORA",
+        font=get_font(40, True), fill="#ffcc00"
     )
-
-    draw.text((75, 180), "FÚTBOL AL MINUTO",
-              font=title_font, fill="#ffffff")
-
-    draw.text((75, 290), "ÚLTIMA HORA", 
-              font=body_font, fill="#ffcc00")
 
     words = text.split()
     lines = []
@@ -45,7 +82,7 @@ def create_video(number):
 
     for word in words:
         test = current + " " + word
-        if draw.textbbox((0, 0), test, font=body_font)[2] > 920:
+        if draw.textbbox((0, 0), test, font=get_font(43))[2] > 940:
             lines.append(current)
             current = word
         else:
@@ -54,31 +91,66 @@ def create_video(number):
     if current:
         lines.append(current)
 
-    y = 430
-    for line in lines[:24]:
-        draw.text((75, y), line, font=body_font, fill="white")
-        y += 58
+    y = 1510
+    for line in lines[:7]:
+        draw.text((65, y), line, font=get_font(43), fill="white")
+        y += 62
 
-    draw.text((75, 1740), "SÍGUENOS PARA MÁS NOTICIAS",
-              font=body_font, fill="#ffcc00")
+    path = OUTPUT / f"escena_{number}.jpg"
+    image.save(path, quality=90)
+    return path
 
-    image_file = OUTPUT / f"imagen_{number}.png"
-    image.save(image_file)
+async def make_audio(text, number):
+    path = OUTPUT / f"voz_{number}.mp3"
+    communicate = edge_tts.Communicate(
+        text, VOICE, rate="+5%", pitch="+0Hz"
+    )
+    await communicate.save(str(path))
+    return path
 
-    audio = AudioFileClip(str(audio_file))
-    video = ImageClip(str(image_file)).set_duration(audio.duration)
-    video = video.set_audio(audio)
+def create_video(number):
+    script_file = OUTPUT / f"guion_{number}.txt"
 
-    video.write_videofile(
-        str(video_file),
+    if not script_file.exists():
+        print("No existe:", script_file)
+        return
+
+    text = script_file.read_text(encoding="utf-8")
+    paragraphs = [
+        re.sub(r"\s+", " ", p).strip()
+        for p in text.split("\n\n")
+        if len(p.strip()) > 25
+    ]
+
+    clips = []
+
+    for i, paragraph in enumerate(paragraphs, 1):
+        audio_path = asyncio.run(make_audio(paragraph, i))
+        image_path = make_scene(paragraph, i)
+
+        audio = AudioFileClip(str(audio_path))
+        clip = ImageClip(str(image_path)).set_duration(audio.duration)
+        clip = clip.set_audio(audio)
+        clips.append(clip)
+
+    if not clips:
+        return
+
+    final = concatenate_videoclips(clips, method="compose")
+    output_file = OUTPUT / f"video_{number}.mp4"
+
+    final.write_videofile(
+        str(output_file),
         fps=24,
         codec="libx264",
         audio_codec="aac"
     )
 
-    audio.close()
-    video.close()
-    print(f"Vídeo creado: {video_file}")
+    final.close()
+    for clip in clips:
+        clip.close()
+
+    print("Video creado:", output_file)
 
 if __name__ == "__main__":
     for i in range(1, 4):

@@ -38,3 +38,10 @@ jobs:
           git add output/
           git diff --cached --quiet || git commit -m "Actualizar plan diario"
           git push
+
+      - name: Descargar videos generados
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-futbol-al-minuto
+          path: output/*.mp4
+          retention-days: 7

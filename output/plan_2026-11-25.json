@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-25",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\n'Best midfielder in the world' - where does Bellingham rank?.\nJose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?\nFuente: BBC Sport.\n\nGlasner criticises Forest players yet to learn English.\nNottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.\nFuente: BBC Sport.\n\nConfusion and anger - Yoro red card rescinded, but row goes on.\nLeny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.\nFuente: BBC Sport.\n\nRaheem Sterling - from national icon to suspended jail sentence.\nFourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.\nFuente: BBC Sport.\n\nHow to unearth young stars, the Bayern Munich way.\nBayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'Best midfielder in the world' - where does Bellingham rank?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+          "description": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Glasner criticises Forest players yet to learn English",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+          "description": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+          "description": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Raheem Sterling - from national icon to suspended jail sentence",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+          "description": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "How to unearth young stars, the Bayern Munich way",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nLincoln sack head coach duo Cohen and Shaw after only six months.\nLincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.\nFuente: BBC Sport.\n\nWatford appoint Iordanescu as head coach.\nWatford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.\nFuente: BBC Sport.\n\nLeicester no longer for sale as owner looks to future.\nLeicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.\nFuente: BBC Sport.\n\nLiverpool mull Quansah return - Thursday's gossip.\nLiverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more\nFuente: BBC Sport.\n\nAre Manchester United this season's Tottenham?.\nTottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
+          "description": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Watford appoint Iordanescu as head coach",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+          "description": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Leicester no longer for sale as owner looks to future",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+          "description": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Liverpool mull Quansah return - Thursday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Are Manchester United this season's Tottenham?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?"
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\n'Justice for sport' - Afcon reaction as Senegal reinstated as winners.\nPlayers and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.\nFuente: BBC Sport.\n\nEA adds AI-generated John Motson to FC 27 video game.\nThe AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.\nFuente: BBC Sport.\n\nThe youngest Premier League goalscorers this season.\nAfter the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.\nFuente: BBC Sport.\n\nJanelt scores stunner as Brentford beat 10-man Everton.\nWatch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.\nFuente: BBC Sport.\n\nMoyes questions Tarkowski red in Brentford loss.\nEverton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
+          "description": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "EA adds AI-generated John Motson to FC 27 video game",
+          "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+          "description": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "The youngest Premier League goalscorers this season",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+          "description": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+          "description": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Moyes questions Tarkowski red in Brentford loss",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+          "description": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford."
+        }
+      ]
+    }
+  ]
+}

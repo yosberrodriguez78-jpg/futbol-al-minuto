@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-26",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nBournemouth 'allowed to dream' as fans book Europa League final hotels.\nBournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.\nFuente: BBC Sport.\n\nLammens - the Man Utd goalkeeper under scrutiny like never before.\nManchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?\nFuente: BBC Sport.\n\nReferee being 'drunk' claims are 'entirely unfounded'.\nA referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.\nFuente: BBC Sport.\n\nHaaland considers Man City exit - Friday's gossip.\nErling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.\nFuente: BBC Sport.\n\nCalvert-Lewin signs new Leeds deal until 2029.\nEngland international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+          "description": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+          "description": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Haaland considers Man City exit - Friday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+          "description": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Calvert-Lewin signs new Leeds deal until 2029",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+          "description": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nLammens howler denies Man Utd victory against Sporting in incident-packed game.\nGoalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.\nFuente: BBC Sport.\n\nIsak scores twice as clinical Liverpool beat Brugge.\nLiverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match.\nFuente: BBC Sport.\n\nGordon stars in comfortable Barca win over Sabah.\nAnthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.\nFuente: BBC Sport.\n\nTerrible Pavlovic own goal gifts Lille shock win against Bayern.\nBayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.\nFuente: BBC Sport.\n\nPSG held by Roma as in-form Malen scores again.\nDonyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+          "description": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Isak scores twice as clinical Liverpool beat Brugge",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+          "description": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Gordon stars in comfortable Barca win over Sabah",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+          "description": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "PSG held by Roma as in-form Malen scores again",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+          "description": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition."
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\nHow Isak and Wirtz are becoming Liverpool's 'big-game players'.\nMatch of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.\nFuente: BBC Sport.\n\nMartinez secures Inter win against Stuttgart.\nLautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.\nFuente: BBC Sport.\n\nFenerbahce squeeze past Shakhtar to seal back-to-back wins.\nTurkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.\nFuente: BBC Sport.\n\nBorussia Dortmund fight back to draw with Arsenal.\nBorussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.\nFuente: BBC Sport.\n\nSublime Bellingham strike lights up Real's rout of PSV.\nJude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+          "description": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Martinez secures Inter win against Stuttgart",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+          "description": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+          "description": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Borussia Dortmund fight back to draw with Arsenal",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+          "description": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sublime Bellingham strike lights up Real's rout of PSV",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+          "description": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League."
+        }
+      ]
+    }
+  ]
+}

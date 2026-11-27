@@ -1,0 +1,118 @@
+{
+  "project": "Fútbol al Minuto",
+  "date": "2026-11-27",
+  "news_count": 15,
+  "videos": [
+    {
+      "video": 1,
+      "title": "Resumen del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nResumen del fútbol.\n\nGibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea.\nMorgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.\nFuente: BBC Sport.\n\n'You're not welcome here' - Chelsea's Fofana booed by own fans.\nChelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.\nFuente: BBC Sport.\n\nMan Utd trigger Fernandes' one-year contract extension.\nManchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.\nFuente: BBC Sport.\n\nHead coach Slegers leaves Arsenal 18 months after Champions League win.\nArsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.\nFuente: BBC Sport.\n\nSutton's predictions v Kings of Leon drummer Nathan Followill.\nBBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+          "description": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+          "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man Utd trigger Fernandes' one-year contract extension",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+          "description": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+          "description": "BBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games."
+        }
+      ]
+    },
+    {
+      "video": 2,
+      "title": "Actualidad internacional",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nActualidad internacional.\n\nEmery praises Garnacho attitude after Villa selection snub.\nAston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.\nFuente: BBC Sport.\n\nCeltic defend head of security amid Green Brigade row.\nCeltic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season.\nFuente: BBC Sport.\n\nChampions League to be a factor in Paz move - Saturday's gossip.\nManchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.\nFuente: BBC Sport.\n\nMan City owners should be forced to sell, say clubs.\nManchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.\nFuente: BBC Sport.\n\nWhat happens now for Bayern Munich and Musiala?.\nBayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "Emery praises Garnacho attitude after Villa selection snub",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+          "description": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Celtic defend head of security amid Green Brigade row",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
+          "description": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Man City owners should be forced to sell, say clubs",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What happens now for Bayern Munich and Musiala?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+          "description": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?"
+        }
+      ]
+    },
+    {
+      "video": 3,
+      "title": "Últimas noticias del fútbol",
+      "script": "¡Bienvenidos a Fútbol al Minuto!\nÚltimas noticias del fútbol.\n\n'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?.\nManchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.\nFuente: BBC Sport.\n\nSpurs' Savio to miss festive fixtures after injury setback.\nTottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.\nFuente: BBC Sport.\n\nFalkirk chase seven in a row at Rangers & Celtic visit Hearts.\nFalkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.\nFuente: BBC Sport.\n\nWhat makes or breaks a high press?.\nA good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?\nFuente: BBC Sport.\n\nClashes mar European games as Macron condemns violence.\nViolent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.\nFuente: BBC Sport.\n\nSíguenos para más noticias del fútbol.",
+      "news": [
+        {
+          "source": "BBC Sport",
+          "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+          "description": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Spurs' Savio to miss festive fixtures after injury setback",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+          "description": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+          "description": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend."
+        },
+        {
+          "source": "BBC Sport",
+          "title": "What makes or breaks a high press?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+          "description": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams exploiting high presses this season?"
+        },
+        {
+          "source": "BBC Sport",
+          "title": "Clashes mar European games as Macron condemns violence",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+          "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia."
+        }
+      ]
+    }
+  ]
+}
